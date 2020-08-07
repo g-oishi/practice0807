@@ -28,7 +28,7 @@
     </v-navigation-drawer>
 
     <v-app-bar dark app clipped-left dense src="../img/Starry-night-stars-nature_1920x1080.jpg">
-      <v-toolbar-title>自作Webサイト公開までの手引（Vue.js）</v-toolbar-title>
+      <v-toolbar-title>自作Webサイト公開までの手引</v-toolbar-title>
       <template v-slot:extension>
         <v-tabs color="yellow">
           <v-tab
